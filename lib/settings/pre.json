@@ -1,0 +1,5 @@
+{
+  "PrivateKeyPath": "/Users/simoyang/Work/go/src/cubar.com/doc/cubar.rsa",
+  "PublicKeyPath": "/Users/simoyang/Work/go/src/cubar.com/doc/cubar.rsa.pub",
+  "JWTExpirationDelta": 72
+}
